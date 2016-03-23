@@ -1,0 +1,12 @@
+{
+    "availability": "PRIVATE",
+    "contextPath": "newapplication",
+    "key": "newapplication-appkey",
+    "name": "New application",
+    "resourcesUrl": "https://github.com/jperezbrockhaus/c8y-plugin/build",
+    "type": "HOSTED",
+    "imports": [
+        "core/c8yBranding",
+        "newapplication/myplugin"
+    ]
+}
